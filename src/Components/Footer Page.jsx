@@ -23,21 +23,21 @@ export default function FooterSection(){
       <div className="col-6 col-md-2 mb-3">
         <h5 className="fw-bold text-light">Quick link</h5>
         <ul className="nav flex-column">
-          <li className=" d-flex flex-column flex-sm-row w-100 gap-2 nav-item mb-2"> <BsChevronRight className="mt-1"  color="white" /><a href="#" className="list-sec nav-link p-0 text-light ">About Us</a></li>
-          <li className=" d-flex flex-column flex-sm-row w-100 gap-2 nav-item mb-2"> <BsChevronRight className="mt-1"  color="white" /><a href="#" className="list-sec nav-link p-0 text-light">Contact Us</a></li>
-          <li className=" d-flex flex-column flex-sm-row w-100 gap-2 nav-item mb-2"> <BsChevronRight className="mt-1"  color="white" /><a href="#" className="list-sec nav-link p-0 text-light">Private Policy</a></li>
-          <li className=" d-flex flex-column flex-sm-row w-100 gap-2 nav-item mb-2"> <BsChevronRight className="mt-1"  color="white" /><a href="#" className="list-sec nav-link p-0 text-light">Terms & Condition</a></li>
-          <li className=" d-flex flex-column flex-sm-row w-100 gap-2 nav-item mb-2"> <BsChevronRight className="mt-1"  color="white" /><a href="#" className="list-sec nav-link p-0 text-light">FAQ'S & Help</a></li>
+          <li className=" d-flex  flex-sm-row w-100 gap-2 nav-item mb-2"> <BsChevronRight className="icon-sec mt-1"  color="white" /><a href="#" className="list-sec nav-link p-0 text-light ">About Us</a></li>
+          <li className=" d-flex  flex-sm-row w-100 gap-2 nav-item mb-2"> <BsChevronRight className="icon-sec mt-1"  color="white" /><a href="#" className="list-sec nav-link p-0 text-light">Contact Us</a></li>
+          <li className=" d-flex  flex-sm-row w-100 gap-2 nav-item mb-2"> <BsChevronRight className="icon-sec mt-1"  color="white" /><a href="#" className="list-sec nav-link p-0 text-light">Private Policy</a></li>
+          <li className=" d-flex  flex-sm-row w-100 gap-2 nav-item mb-2"> <BsChevronRight className="icon-sec mt-1"  color="white" /><a href="#" className="list-sec nav-link p-0 text-light">Terms & Condition</a></li>
+          <li className=" d-flex  flex-sm-row w-100 gap-2 nav-item mb-2"> <BsChevronRight className="icon-sec mt-1"  color="white" /><a href="#" className="list-sec nav-link p-0 text-light">FAQ'S & Help</a></li>
         </ul>
       </div>
 
       <div className="col-6 col-md-2 mb-3">
         <h5 className="fw-bold text-light">Contact</h5>
         <ul className="nav flex-column">
-          <li className=" d-flex flex-column flex-sm-row w-100 gap-2 nav-item mb-2"><BsFillChatSquareTextFill className="mt-1"  color="white" /><a href="#" className="nav-link p-0 text-light">123 Street,New York,USA</a></li>
-          <li className=" d-flex flex-column flex-sm-row w-100 gap-2 nav-item mb-2 "><BsFillTelephoneFill className="mt-1"  color="white" /><a href="#" className="nav-link p-0 text-light">+012 345 67890</a></li>
-          <li className="d-flex flex-column flex-sm-row w-100 gap-2 nav-item mb-2"><BsFillEnvelopeAtFill className="mt-1"  color="white" /><a href="#" className="nav-link p-0 text-light">info@example.com</a></li>
-          <li className="d-flex flex-column flex-sm-row w-100 gap-2 nav-item mb-2">< BsTelegram className="list-sec1 mt-1"  color="white" /><BsFillChatSquareTextFill className="list-sec1 mt-1"  color="white" /><BsTwitter className="list-sec1 mt-1"  color="white" /><BsTvFill className="list-sec1 mt-1"  color="white" /><BsLinkedin className="list-sec1 mt-1"  color="white" /><a href="#" className="nav-link p-0 btn btn-outline-light text-light"></a></li>
+          <li className=" d-flex  flex-sm-row w-100 gap-2 nav-item mb-2"><BsFillChatSquareTextFill className="mt-1"  color="white" /><a href="#" className="nav-link p-0 text-light">123 Street,New York,USA</a></li>
+          <li className=" d-flex  flex-sm-row w-100 gap-2 nav-item mb-2 "><BsFillTelephoneFill className="mt-1"  color="white" /><a href="#" className="nav-link p-0 text-light">+012 345 67890</a></li>
+          <li className="d-flex flex-sm-row w-100 gap-2 nav-item mb-2"><BsFillEnvelopeAtFill className="mt-1"  color="white" /><a href="#" className="nav-link p-0 text-light">info@example.com</a></li>
+          <li className="d-flex  flex-sm-row w-100 gap-2 nav-item mb-2">< BsTelegram className="list-sec1 mt-1"  color="white" /><BsFillChatSquareTextFill className="list-sec1 mt-1"  color="white" /><BsTwitter className="list-sec1 mt-1"  color="white" /><BsTvFill className="list-sec1 mt-1"  color="white" /><BsLinkedin className="list-sec1 mt-1"  color="white" /><a href="#" className="nav-link p-0 btn btn-outline-light text-light"></a></li>
           
           {/* {/* <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-body-secondary">FAQs</a></li>
           <li className="nav-item mb-2"><a href="#" className="nav-link p-0 text-body-secondary">About</a></li> */}
